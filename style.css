@@ -218,8 +218,8 @@ main {
 
 @media (max-width: 440px) {
   main {
-    height: 90vh;
-    width: 90%;
+    height: 80vh;
+    width: 100%;
   }
 
   .btn {
@@ -239,25 +239,4 @@ main {
   .current-score {
     font-size: smaller;
   }
-}
-
-
-
-@media only screen and (max-width: 920px) and (min-width: 600px) {
-  main {
-    height: 60vh;
-    width: 90%;
-  }
-}
-
-@media (max-width: 920px) {
-  main {
-    /* height: 60vh; */
-    width: 80%;
-
-  }
-
-
-
-
 }
