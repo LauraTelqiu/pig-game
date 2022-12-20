@@ -250,14 +250,14 @@ main {
   }
 }
 
-/* @media (max-width: 920px) {
+@media (max-width: 920px) {
   main {
-    height: 60vh;
-    width: 90%;
+    /* height: 60vh; */
+    width: 80%;
 
   }
 
 
 
 
-} */
+}
